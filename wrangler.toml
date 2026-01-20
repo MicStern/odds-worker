@@ -1,0 +1,7 @@
+name = "odds-api"
+main = "src/worker.js"
+compatibility_date = "2025-01-01"
+
+kv_namespaces = [
+  { binding = "ODDS", id = "REPLACE_WITH_YOUR_KV_ID" }
+]
